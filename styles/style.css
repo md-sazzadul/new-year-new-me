@@ -125,3 +125,23 @@
     line-height: 29px;
     color: #737272;
 }
+
+/* call section starts */
+.call {
+    margin: 125px 230px 0;
+    background-image: url("../images/watch.png"), url("../images/gradient3.png");
+    background-repeat: no-repeat;
+    padding: 60px 65px 60px;
+    background-blend-mode: overlay;
+}
+
+.call-content {
+    width: 450px;
+}
+
+.call-content h2 {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #FFFFFF;
+}
