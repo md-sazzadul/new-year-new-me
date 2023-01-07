@@ -84,3 +84,44 @@
 .faicon-check {
     color: rgba(22, 216, 135, 1);
 }
+
+/* plans section starts */
+.plans {
+    margin: 130px 230px 0;
+}
+
+.plans h2 {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #151414;
+    text-align: center;
+}
+
+.plan-container {
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.plan {
+    margin: 0 18px;
+    text-align: center;
+}
+
+.plan h3 {
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    color: #151414;
+    margin-top: 24px;
+    margin-bottom: 16px;
+    width: 270px;
+}
+
+.plan p {
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    color: #737272;
+}
